@@ -1,4 +1,4 @@
-# qiskitplus
+# The Quantum Prisoners Dilemma
 
 🟢 Under Progress
 
