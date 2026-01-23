@@ -3,7 +3,7 @@
 ## EWL Architecture
 ![cirucit-2](https://github.com/user-attachments/assets/a2997b6e-3872-4b53-bad0-bdddcd599181)
 
-## Qiskit Circuit Implementatio
+## Qiskit Circuit Implementation
 <img width="1008" height="317" alt="Screenshot 2026-01-20 095111" src="https://github.com/user-attachments/assets/3c8ed2b1-9811-4922-be79-00c817631edf" />
 
 ## Classical v/s Quantum Prisoner's Dilemma Payoff Comparison
