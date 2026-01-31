@@ -1,12 +1,12 @@
 # The Quantum Prisoners Dilemma
 
-## EWL Architecture
+## 1️⃣ EWL Architecture
 ![cirucit-2](https://github.com/user-attachments/assets/a2997b6e-3872-4b53-bad0-bdddcd599181)
 
-## Qiskit Circuit Implementation
+## 2️⃣ Qiskit Circuit Implementation
 <img width="1008" height="317" alt="Screenshot 2026-01-20 095111" src="https://github.com/user-attachments/assets/3c8ed2b1-9811-4922-be79-00c817631edf" />
 
-## Classical v/s Quantum Prisoner's Dilemma Payoff Comparison
+## 3️⃣ Classical v/s Quantum Prisoner's Dilemma Payoff Comparison
 <img width="919" height="724" alt="Screenshot 2026-01-20 095158" src="https://github.com/user-attachments/assets/883da51f-5244-4acb-aaf6-10815b5e5303" />
 
 ## Connect with Me
@@ -16,7 +16,7 @@ If you found this project helpful or have any suggestions, feel free to connect:
 - [![GitHub](https://img.shields.io/badge/GitHub-AnshMNSoni-181717.svg?logo=github)](https://github.com/AnshMNSoni)
 - [![Reddit](https://img.shields.io/badge/Reddit-u/AnshMNSoni-FF4500.svg?logo=reddit)](https://www.reddit.com/user/AnshMNSoni)
 
-## References
+## 📍 References
 - **Eisert, J., Wilkens, M., & Lewenstein, M.**  
   *Quantum Games and Quantum Strategies*  
   **Physical Review Letters**, 83, 3077–3080 (1999).  
@@ -35,6 +35,6 @@ If you found this project helpful or have any suggestions, feel free to connect:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contributors are most welcome!
+## 🤝 Contributors are most welcome!
 
 ## Thankyou
